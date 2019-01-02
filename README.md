@@ -52,15 +52,22 @@
 ### 6. FINANCE SECTION
 
 # 1  OPERATION
-## a. Job List
+## a. Job List (Realtime update)
 ### To view all the Jobs record.
 ### There are 14 columns in the job list to provide a glance view :
 - `ID`  FMS system unique Job ID  
 * `Action`  Several action can be perform to extend the funtionality of job:
-  - `Details` 
-  - `Edit` 
-  - `Delete` 
-  - `Quotation` 
+  - `Details`  To view Job detail, Job photos captured, vehicle position and Vehicle Details. 
+  - `Edit`  Edit Job Information.
+  - `Delete`  Delete Job, only user authorised can view this action.
+  - `Quotation`  To create quotation for this job.
+  - `Reassign`  Reassign job to another technician. 
+  - `Track Technician`  Track technician current location and duration to reach job's location 
+  - `Whatsapp`  To send job detail to customer via whatsapp
+  - `Follow Up` 
+  - `Claim` 
+  - `Transport Charge FOC` 
+  - `Rotation & balancing FOC` 
 - `Customer`  Customer basic details such as Company Name, Company Code, Vehicle No. and Remark
 - `Type`  Indoor Job or Outdoor Job
 - `SD No.`  Service Docker Number
@@ -74,4 +81,21 @@
 - `Technician Indoor`  Indoor Technician responsible for this job
 - `Assigned To`  Outdoor Technician responsible for this job
 
+### Filter Job on top based on several criteria: 
+- `SD No.`
+- `Notification No.`
+- `Completed`
+- `Assigned`
+- `Claim`
+- `FollowUp`
 
+### Job list row color definition:
+- `Red`  Technicain cannot receive job
+- `Green`  Technician receive job
+- `Light Green`  Technician start job
+- `Orange`  New Job Incoming
+- `White`  Completed Job
+
+## b. Create New Job
+There is 3 ways to create a new job:
+### 
