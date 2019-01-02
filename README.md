@@ -37,15 +37,15 @@
   - `b. Maintenance`
   - `c. Map`
   - `d. Fleep Record`
-  ####e. Technician Route
-  ####f. Daily Routine List
+  - `e. Technician Route`
+  - `f. Daily Routine List`
   
   
 ### 2. CUSTOMER MANAGEMENT
-  ####a. Customer
-  ####b. Vehicle
-  ####c. Apps User
-  ####d. Admin
+  - `a. Customer`
+  - `b. Vehicle`
+  - `c. Apps User`
+  - `d. Admin`
 ### 3. CSD SECTION
 ### 4. HR SECTION
 ### 5. SALES SECTION
