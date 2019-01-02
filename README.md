@@ -51,3 +51,23 @@
 ### 5. SALES SECTION
 ### 6. FINANCE SECTION
 
+# 1  OPERATION
+## a. Job List
+### To view all the Jobs record.
+### There are 14 columns in the job list to provide a glance view :
+- `ID`
+- `Action`
+- `Customer`
+- `Type`
+- `SD No.`
+- `Notif No.`
+- `Address`
+- `Sent On`
+- `Technician Receive on`
+- `Start On`
+- `Complete On`
+- `Schedule`
+- `Technician Indoor`
+- `Assigned To`
+
+
