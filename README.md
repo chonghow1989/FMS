@@ -36,10 +36,10 @@
   - `a. Job List`
   - `b. Create New Job / Edit Job`
   - `c. Maintenance`
-  - `c. Map`
-  - `d. Fleep Record`
-  - `e. Technician Route`
-  - `f. Daily Routine List`
+  - `d. Map`
+  - `e. Fleep Record`
+  - `f. Technician Route`
+  - `g. Daily Routine List`
   
   
 ### 2. CUSTOMER MANAGEMENT
@@ -108,11 +108,21 @@ Operation team will edit the job and furnish all the informations before posting
 
 ## c. Maintenance (In-house Operation Team Management)
 ###  1. Driver 
-* `In-House Driver Maintenance`  
-- `Creation`  
-* `Username* (For Mobile Apps Login)`  
-* `Password* (For Mobile Apps Login)`  
+* `In-House Technician Maintenance`  For Login into Mobile Apps & Job Assigned   
+- `Technician List`  
+- `Registration Form to create new Technician`  
+
 
 ###  2. Vehicle 
-###  3. Milleage & Servicing List
+* `In-House Vehicle Maintenance`  For use by Technician and in-house tracking.
+- `Vehicle List`  
+- `Vehicle Form to create new Vehicle`  
+###  3. Milleage & Servicing
+* `Milleage & Servicing List` To keep track every in-house vehicle Servicing Due Date	and Mileage
 
+## c. Map (Realtime Update)
+- `Glance view for all technician movement`
+
+## d. Map (Realtime Update)
+
+## d. Map (Realtime Update)
