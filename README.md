@@ -33,10 +33,10 @@
 # Documentation (User Manual)
 ## Index
 ### 1. OPERATION
-  ####a. Job List
-  ####b. Maintenance
-  ####c. Map
-  ####d. Fleep Record
+  - `a. Job List`
+  - `b. Maintenance`
+  - `c. Map`
+  - `d. Fleep Record`
   ####e. Technician Route
   ####f. Daily Routine List
   
