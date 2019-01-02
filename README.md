@@ -34,7 +34,8 @@
 ## Index
 ### 1. OPERATION
   - `a. Job List`
-  - `b. Maintenance`
+  - `b. Create New Job / Edit Job`
+  - `c. Maintenance`
   - `c. Map`
   - `d. Fleep Record`
   - `e. Technician Route`
@@ -54,7 +55,7 @@
 # 1  OPERATION
 ## a. Job List (Realtime update)
 ### To view all the Jobs record.
-### There are 14 columns in the job list to provide a glance view :
+### There are 14 columns in the job list to provide a glance view of every jobs :
 - `ID`  FMS system unique Job ID  
 * `Action`  Several action can be perform to extend the funtionality of job:
   - `Details`  To view Job detail, Job photos captured, vehicle position and Vehicle Details. 
@@ -96,6 +97,22 @@
 - `Orange`  New Job Incoming
 - `White`  Completed Job
 
-## b. Create New Job
+## b. Create New Job / Edit Job
+
 There is 3 ways to create a new job:
-### 
+###  1. Web 
+###  2. Apps 
+###  3. Customer Admin Portal 
+
+Operation team will edit the job and furnish all the informations before posting to SAP Notification:
+
+## c. Maintenance (In-house Operation Team Management)
+###  1. Driver 
+* `In-House Driver Maintenance`  
+- `Creation`  
+* `Username* (For Mobile Apps Login)`  
+* `Password* (For Mobile Apps Login)`  
+
+###  2. Vehicle 
+###  3. Milleage & Servicing List
+
