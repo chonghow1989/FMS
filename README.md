@@ -23,8 +23,12 @@
     
 
 # Requirements
+    - Internet Connection
+    - Modern Web Browser(Google Chrome, Firefox)
 
 # Get Started
+    URL : http://csa.yhi.com.sg/JOB/list.php
+    Login with account provided.
 
 # Documentation (User Manual)
 ## Index
