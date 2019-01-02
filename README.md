@@ -55,19 +55,20 @@
 ## a. Job List
 ### To view all the Jobs record.
 ### There are 14 columns in the job list to provide a glance view :
-- `ID` FMS system unique Job ID 
-- `Action` Several action can be perform to extend the funtionality of job:
-- `Customer` Customer basic details such as Company Name, Company Code, Vehicle No. and Remark
-- `Type` Indoor Job or Outdoor Job
-- `SD No.` Service Docker Number
-- `Notif No.` Notification Number (From SAP)
-- `Address` Job Location
-- `Sent On`
-- `Technician Receive on`
-- `Start On`
-- `Complete On`
-- `Schedule`
-- `Technician Indoor`
-- `Assigned To`
+- `ID`  FMS system unique Job ID 
+- `Action`  Several action can be perform to extend the funtionality of job:
+- ``Details``
+- `Customer`  Customer basic details such as Company Name, Company Code, Vehicle No. and Remark
+- `Type`  Indoor Job or Outdoor Job
+- `SD No.`  Service Docker Number
+- `Notif No.`  Notification Number (From SAP)
+- `Address`  Job Location
+- `Sent On`  Time Job Created
+- `Technician Receive on`  Time Technician received the Job on Mobile Apps
+- `Start On`  Time Technician Start the job
+- `Complete On`  Time Technician finish the job
+- `Schedule`  Time future pre schedule job 
+- `Technician Indoor`  Indoor Technician responsible for this job
+- `Assigned To`  Outdoor Technician responsible for this job
 
 
