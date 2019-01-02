@@ -55,9 +55,12 @@
 ## a. Job List
 ### To view all the Jobs record.
 ### There are 14 columns in the job list to provide a glance view :
-- `ID`  FMS system unique Job ID 
-- `Action`  Several action can be perform to extend the funtionality of job:
-- ``Details``
+- `ID`  FMS system unique Job ID  
+* `Action`  Several action can be perform to extend the funtionality of job:
+  - `Details` 
+  - `Edit` 
+  - `Delete` 
+  - `Quotation` 
 - `Customer`  Customer basic details such as Company Name, Company Code, Vehicle No. and Remark
 - `Type`  Indoor Job or Outdoor Job
 - `SD No.`  Service Docker Number
