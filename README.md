@@ -37,7 +37,7 @@
   - `b. Create New Job / Edit Job`
   - `c. Maintenance`
   - `d. Map`
-  - `e. Fleep Record`
+  - `e. Fleet Record`
   - `f. Technician Route`
   - `g. Daily Routine List`
   
@@ -120,9 +120,53 @@ Operation team will edit the job and furnish all the informations before posting
 ###  3. Milleage & Servicing
 * `Milleage & Servicing List` To keep track every in-house vehicle Servicing Due Date	and Mileage
 
-## c. Map (Realtime Update)
+## d. Map (Realtime Update)
 - `Glance view for all technician movement`
 
-## d. Map (Realtime Update)
+## e. Fleet Record
+###  1. Fleet Report  
+Summary view for no. of jobs completed by each technician.
 
-## d. Map (Realtime Update)
+
+###  2. Customer Report 
+Summary view for no. of jobs for specific customer.
+
+
+## f. Technician Route
+Routes travelled by specific technician. (Day view)
+
+## g. Daily Routine List
+To track and monitor timing of tasks carry out by the technician.
+
+
+# 2  CUSTOMER MANAGEMENT
+## a. Customer
+### - Customer List
+Division 06  Customer List (From SAP)
+There are 11 columns in the customer list to provide a glance view of every customers :
+
+* `Action`  Several action can be perform to view more further informations of customer:
+  - `Aging`  To view owing up to 150 days and pending invoices.
+  
+  - `Monthly Sales Result`  
+  
+  - `Purchase History`  Delete Job, only user authorised can view this action.
+  
+  - `Price Maintenance`  To create quotation for this job.
+  
+  - `Price History`  Reassign job to another technician. 
+  
+  - `Customer Stock`  Track technician current location and duration to reach job's location
+  
+- `SAP Code`  SAP Code for each Customer.  
+- `Name`  Customer basic details such as Company Name, Company Code, Vehicle No. and Remark.
+- `Salesman`  Salesperson responsibled
+- `Address`  Customer registered address in SAP system.
+- `Postal`  Customer registered postalcode in SAP system.
+- `Email`  Customer registered email in SAP system.
+- `Billing Type`  Collective, Comprehensive or Direct Billing.
+- `Suspend`  Suspend status. Block from create a new job when customer is suspended.
+- `Quotation Required`  Link to Quotation. Compulsory to create quotation before billing.
+- `Remark`  Free text.
+### - Advanti Customer List
+### - Suspended List
