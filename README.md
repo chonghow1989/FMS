@@ -55,8 +55,8 @@
 ## a. Job List
 ### To view all the Jobs record.
 ### There are 14 columns in the job list to provide a glance view :
-- `ID`
-- `Action`
+- `ID` FMS system unique Job ID 
+- `Action` 
 - `Customer`
 - `Type`
 - `SD No.`
