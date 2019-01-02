@@ -56,12 +56,12 @@
 ### To view all the Jobs record.
 ### There are 14 columns in the job list to provide a glance view :
 - `ID` FMS system unique Job ID 
-- `Action` 
-- `Customer`
-- `Type`
-- `SD No.`
-- `Notif No.`
-- `Address`
+- `Action` Several action can be perform to extend the funtionality of job:
+- `Customer` Customer basic details such as Company Name, Company Code, Vehicle No. and Remark
+- `Type` Indoor Job or Outdoor Job
+- `SD No.` Service Docker Number
+- `Notif No.` Notification Number (From SAP)
+- `Address` Job Location
 - `Sent On`
 - `Technician Receive on`
 - `Start On`
