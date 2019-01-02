@@ -15,6 +15,12 @@
     - Billing 
 
 # Modules
+    •	Job & Operation
+    •	Customer
+    •	Billing
+    •	Finance
+    
+    
 
 # Requirements
 
