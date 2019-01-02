@@ -148,19 +148,19 @@ There are 11 columns in the customer list to provide a glance view of every cust
 * `Action`  Several action can be perform to view more further informations of customer:
   - `Aging`  To view owing up to 150 days and pending invoices.
   
-  - `Monthly Sales Result`  
+  - `Monthly Sales Result`  Sales Summary Statistic & Chart       
   
-  - `Purchase History`  Delete Job, only user authorised can view this action.
+  - `Purchase History`  Complete Job Detail From Job Order Date, Items, and Invoice. 
   
-  - `Price Maintenance`  To create quotation for this job.
+  - `Price Maintenance`  YT1P Division 06 Pricing Maintenance from SAP.(Daily Update)
   
-  - `Price History`  Reassign job to another technician. 
+  - `Price History`  Historical Price Summary for every items.
   
-  - `Customer Stock`  Track technician current location and duration to reach job's location
+  - `Customer Stock`  Stock sold to customer that park at YHI premise.
   
 - `SAP Code`  SAP Code for each Customer.  
 - `Name`  Customer basic details such as Company Name, Company Code, Vehicle No. and Remark.
-- `Salesman`  Salesperson responsibled
+- `Salesman`  Salesperson responsible.
 - `Address`  Customer registered address in SAP system.
 - `Postal`  Customer registered postalcode in SAP system.
 - `Email`  Customer registered email in SAP system.
@@ -169,4 +169,14 @@ There are 11 columns in the customer list to provide a glance view of every cust
 - `Quotation Required`  Link to Quotation. Compulsory to create quotation before billing.
 - `Remark`  Free text.
 ### - Advanti Customer List
+- `SAP` 
+- `Tecsys` 
+- `From Landing Page` 
 ### - Suspended List
+- Customer banned from New Job
+
+
+## b. Vehicle
+### - Vehicle List
+### - Create new Vehicle
+### - Vehicle Activities
