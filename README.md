@@ -41,16 +41,33 @@
   - `f. Technician Route`
   - `g. Daily Routine List`
   
-  
 ### 2. CUSTOMER MANAGEMENT
   - `a. Customer`
   - `b. Vehicle`
   - `c. Apps User`
   - `d. Admin`
+  
 ### 3. CSD SECTION
+  - `a. Job Posting`
+  
 ### 4. HR SECTION
+  - `a. Employee Handbook`
+  - `b. Announcement & Notice`
+  - `c. Attendance Report`
+  - `d. Clock In`
+
 ### 5. SALES SECTION
+ * `a. Result`
+   -  `Monthly Sales Result`
+   -  `Customer Sales Result`
+   -  `Customer Sales Statistic`
+   -  `Overall Jobs Statistic`
+  - `b. Sales Activity Register`
+  - `c. Quotation`
+
 ### 6. FINANCE SECTION
+  - `Customer AR`
+  - `Customer SOA`
 
 # 1  OPERATION
 ## a. Job List (Realtime update)
@@ -178,5 +195,53 @@ There are 11 columns in the customer list to provide a glance view of every cust
 
 ## b. Vehicle
 ### - Vehicle List
+
+
 ### - Create new Vehicle
+
+
 ### - Vehicle Activities
+
+
+# 3  CSD Section
+This section is mainly for CSD Team to do the Service Order posting job. 
+The Job List will only show jobs which posted to Service Notification from Operation section.
+
+## To view all the Jobs record.
+### There are 16 columns in the job list to provide a glance view of every jobs :
+- `ID`  FMS system unique Job ID  
+* `Action`  Click on the link to go to Details Screen and Perform Job Filling & Job Posting action.
+  If the bill is Comprehensive will indicated in a Comrehensive box.
+- `Customer`  Customer basic details such as Company Name, Company Code, Vehicle No.
+- `SD No.`  Service Docker Number 
+- `Notif No.`  Notification Number (From SAP)
+- `SO No.`  Service Order Number (From SAP)
+- `Posted On`  Time CSD Post the SO
+- `Posted By`  CSD Personnel who Post the SO
+- `Comprehensive No.`  Comprehensive Number
+- `Comprehensive Posted On`  Time CSD Post the Comprehensive
+- `Comprehensive Posted By`  CSD Personnel who Post the Comprehensive
+- `Address`  Job Location
+- `Sent On`  Time Job Created
+- `Start On`  Time Technician Start the job
+- `Complete On`  Time Technician finish the job
+- `Assigned To`  Outdoor Technician responsible for this job
+
+## Details Screen
+
+
+### Job Filling
+  - `Details` 
+  
+
+### Job Posting action
+  - `Header`
+  - `Configuration Date`
+  - `Operation`
+  - `Component`
+
+
+
+## Comprehensive
+
+
